@@ -6,10 +6,10 @@
   - sample_size: Number of samples
   - anode: Location of anode
   - cathode: Location of cathode
-  - intensity: Intensity of electricity in ampere (A)
+  - intensity: Intensity of electricity in ampere (mA)
   - electrode_area: Surface area of electrode in cm^2
   - sessions: Number of sessions
-  - duration: Duration of electricity flow in seconds
+  - duration: Duration of electricity flow in minutes
   - clinical outcome: Result or effect of a medical treatment
   - sham: Presence or absence of sham condition
 
